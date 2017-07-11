@@ -1,0 +1,23 @@
+{
+  "name": "zacsim3plusday",
+  "version": "0.0.0-dev",
+  "description": "A habit management webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohnryang/Zacsim3PlusDay.git"
+  },
+  "author": "sohnryang",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sohnryang/Zacsim3PlusDay/issues"
+  },
+  "homepage": "https://github.com/sohnryang/Zacsim3PlusDay#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
