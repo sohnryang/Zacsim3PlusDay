@@ -2,14 +2,30 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>First React App</title>
+        <title>작심3+일</title>
         <link rel="stylesheet" href="bootstrap.min.css"/>
         <script src="jquery-3.1.1.slim.min.js"></script>
         <script src="tether.min.js"></script>
         <script src="bootstrap.min.js"></script>
     </head>
-    <body>
-        <h1>작심3+일</h1>
+    <body role="document">
+        <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand" href="#">작심3+일</a>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home</a>
+                    </li>
+                    <li class="navbar-nav">
+                        <a class="nav-link" href="https://github.com/sohnryang/Zacsim3PlusDay">GitHub</a>
+                    </li>
+                </ul>
+            </div>
+            <button type="button" class="btn btn-outline-primary">습관 추가</button>
+        </nav>
         <div id="root"></div>
         <script type="text/javascript" src="bundle.js"></script>
     </body>
