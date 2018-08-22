@@ -1,0 +1,22 @@
+{
+  "name": "zacsim-3plus-day",
+  "version": "1.0.0",
+  "description": "A habit management webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohnryang/zacsim-3plus-day.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "sohnryang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sohnryang/zacsim-3plus-day/issues"
+  },
+  "homepage": "https://github.com/sohnryang/zacsim-3plus-day#readme"
+}
