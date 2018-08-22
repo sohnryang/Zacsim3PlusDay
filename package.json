@@ -21,5 +21,8 @@
   "homepage": "https://github.com/sohnryang/zacsim-3plus-day#readme",
   "dependencies": {
     "@polymer/polymer": "^3.0.5"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
   }
 }
